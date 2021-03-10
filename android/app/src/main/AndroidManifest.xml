@@ -2,7 +2,7 @@
     package="com.example.skill_house">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="MVP"
+        android:label="Skill House"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
